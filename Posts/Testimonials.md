@@ -1,7 +1,7 @@
 # Testimonials work duh
 The marketing zeitgeist for years had talked about the benefits of social proof in the form of testimonials. Additionally, the brands we referenced as adjacent _and_ halo brands used social proof (I'll talk about how we determined adjacent/halo brands in another post). It was (and still is) a reliable method of building trust in a brand.
 
-<img src="images/testimonialCommPage.png">
+<img src="/images/testimonialCommPage.png">
 
 ## How should we do it? 
 Feeling confident that they would work on our site, we had to figure out where to place them. 
