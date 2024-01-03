@@ -17,3 +17,8 @@ Figure 1. Survey participants were asked to order these options based on their p
 <img src="../images/rankeableItems.png" />
 Figure 2. Survey results demonstrated that users ranked items related to the house higher than items related to the neighborhood.
 
+
+
+---
+#### Background:
+Between 2015-2020 I was responsible for all A/B testing, personalization and optimization for a luxury homebuilder’s website. The website’s “job” was to get users in touch with a sales person. The internet was very different back in the late teens and much of this technology is standard now, back then it wasn’t and required lots of people. I have sanitized this and won’t use real numbers so as not to share any proprietary information about the company. This post is about how I made the site better for people shopping for a home.

@@ -1,6 +1,6 @@
 # Can lead form comments predict behaviors?
 
-<img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQOIB_lvOgpKvrlFGQzsJ97RxM2Wwt3yMf1_d-lu4axSh1QW5m0yXSr_I_Urh_SOKrxZtPXYAadwqdc2f9nXaRI9T_dmQ=w2918-h1764" height="200" align="left"> 
+<img src="/images/leadForm.jpg" height="200" align="left"> 
 
 When someone submitted a lead form on the site, they could write a comment that would be read by the support team. We wanted to know if a shopper was more or less likely to deposit based on the comments they wrote. We started building out two cohorts.
 
