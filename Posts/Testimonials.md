@@ -1,7 +1,7 @@
 # Testimonials work duh
 The marketing zeitgeist for years had talked about the benefits of social proof in the form of testimonials. Additionally, the brands we referenced as adjacent _and_ halo brands used social proof (I'll talk about how we determined adjacent/halo brands in another post). It was (and still is) a reliable method of building trust in a brand.
 
-<img src="/images/testimonialCommPage.png">
+<img src="../images/testimonialCommPage.png">
 
 ## How should we do it? 
 Feeling confident that they would work on our site, we had to figure out where to place them. 
@@ -28,3 +28,11 @@ Remember, the test variant hid the testimonials so a drop in leads was great. We
 ### Background:
 
 Between 2015-2020 I was responsible for all A/B testing, personalization and optimization for a luxury homebuilder’s website. The website’s “job” was to get users in touch with a sales person. The internet was very different back in the late teens and much of this technology is standard now, back then it wasn’t and required lots of people. I have sanitized this and won’t use real numbers so as not to share any proprietary information about the company. The point of this blog isn't to blow your mind, it's to show the _process_ I/we went through to arrive at our conclusions.
+
+
+<style>
+    img {
+        width: 400px;
+        margin-left: calc(50% - 200px);
+    }
+</style>
